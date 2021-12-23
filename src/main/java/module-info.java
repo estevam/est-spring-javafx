@@ -15,8 +15,11 @@ module ca.est {
     
     requires javafx.fxml;
     requires javafx.controls;
-    
+	requires javafx.graphics;
+	//requires jmetro;
     
     opens ca.est to spring.core, javafx.fxml;
+    opens ca.est.controller to spring.core, spring.beans, javafx.fxml;
+    
     exports ca.est;
 }
