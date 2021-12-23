@@ -1,5 +1,5 @@
 
-# est-spring-javafx
-## Sample Java 11 (LTS) + Spring Boot 2.2 + JavaFX template
+# JavaFX Spring Boot Template
+## Sample Java 17 (LTS) + Spring Boot 2.6.2 + JavaFX
 
 
